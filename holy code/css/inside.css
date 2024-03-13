@@ -1,0 +1,19 @@
+h1{
+    font-size: 20;
+    text-decoration: underline;
+    color: blue;
+}
+h2{
+    text-decoration: underline;
+}
+#suggestion h1{
+    font-size: 40;
+    color: red;
+}
+a:hover{
+    color: blueviolet;
+    background-color: blue;
+}
+a:visited{
+    color: purple;
+}
